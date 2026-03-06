@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+.venv/
+
+# Credentials
+.env
+
+# Export output
+export/
+test-export/
+
+# IDE
+.idea/
+.vscode/
+*.swp
